@@ -1,2 +1,2 @@
 # project_db
-db 인터페이스
+db interface
