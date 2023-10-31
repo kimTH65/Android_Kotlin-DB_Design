@@ -1,2 +1,2 @@
-# Android(Kotlin) project_db
+# Android(Kotlin) Project_DB
 Create DB Interface for Team Project
