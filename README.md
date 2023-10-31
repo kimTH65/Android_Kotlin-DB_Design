@@ -1,2 +1,2 @@
 # project_db
-db interface
+Create db interface for Team Project
